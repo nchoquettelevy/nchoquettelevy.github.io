@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Talks and presentations"
+permalink: /talks/
+author_profile: true
+---
+
+{% if site.talkmap_link == true %}
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+
+{% endif %}
+
+[Does Heterogeneity in Social and Informational Capital Affect Nepali Farmer Climate Risk Management?](/files/12.01.2022_Wittgenstein_final.pdf)
+Dec. 1, 2022 (virtual)
+Wittgenstein Centre Conference, Vienna, Austria

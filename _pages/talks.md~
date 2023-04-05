@@ -11,6 +11,6 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+[Does Heterogeneity in Social and Informational Capital Affect Nepali Farmer Climate Risk Management?]
+Dec. 1, 2022 (virtual)
+Wittgenstein Centre Conference, Vienna, Austria
