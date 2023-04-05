@@ -16,6 +16,8 @@ The main questions that underlie my research include:
 
 2) What policies are most effective in helping smallholder farmers adapt to rising climate risks?
 
-3) What governance principles are needed to help societies navigate deeply uncertain climate futures?  
+3) What governance principles are needed to help societies navigate deeply uncertain climate futures?
+
+### For colleagues from PAA 2023, please feel free to view more information on my poster presentation [here](/files/12.01.2022_Wittgenstein_final.pdf).
 
 I am always happy to chat about potential research collaborations; commenting on policy developments related to climate, migration, and agriculture; and navigating graduate school. Please feel free to get in touch at nclevy@bu.edu.
