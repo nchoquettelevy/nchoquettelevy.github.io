@@ -11,6 +11,7 @@ author_profile: true
 
 ## [Compound Impacts from Droughts and Structural Vulnerability on Human Mobility](https://www.sciencedirect.com/science/article/pii/S2589004222017631) 
 Thalheimer, L.; **Choquette-Levy, N.**; and F. Garip. Compound impacts from drought and structural vulnerability on human mobility, *iScience*, 25(12): 105491.
+![](/images/compoundmobility.png = 100x100)
 <details>
 <summary>Abstract</summary>
 Extreme dry events already disrupt populations’ ability to migrate. In a warming climate, compound drought events could amplify vulnerability and drive forced migration. Here, we contribute the first multi-method research design on societal impacts from compound drought events. We show how mobility patterns are shaped by the intersection of drought and social vulnerability factors in three drought-prone countries – Madagascar, Nepal, and Mexico. We find that internal migration in agricultural communities in Mexico increased by 14 to 24 basis points from 1991 to 2018 and will prospectively increase by 2 to 15 basis points in Nepal in case of a compound drought event in 2025. We show that consecutive drought events exacerbate structural vulnerabilities, limiting migrants’ adaptation options, including long-range migration. We conclude that the additional social pre-conditions, e.g., social isolation and lack of accurate information, ultimately limit migration as an adaptation option for households vulnerable to compound drought events.
