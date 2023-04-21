@@ -1,9 +1,8 @@
 ---
-layout: archive
 title: "Current Research"
 permalink: /research/
 author_profile: true
-----
+---
 
 ## Pro-Social Preferences and Subsistence Farmer Climate Risk Management
 with Matthias Wildmeersch, Fernando P. Santos, Simon A. Levin, Michael Opennheimer, and Elke U Weber.
