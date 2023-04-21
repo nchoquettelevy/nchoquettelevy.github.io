@@ -7,7 +7,7 @@ author_profile: true
 ## Pro-Social Preferences and Subsistence Farmer Climate Risk Management
 with Matthias Wildmeersch, Fernando P. Santos, Simon A. Levin, Michael Opennheimer, and Elke U Weber.
 <p align="center">
-<img src="/images/SocialPreferencesFigure.png" alt="Social Preferences" width="300" height="300" title="Social Preferences">
+<img src="/images/SocialPreferencesFigure.png" alt="Social Preferences" width="500" height="500" title="Social Preferences">
 </p>
 <details>
 <summary>Summary</summary>
@@ -19,7 +19,7 @@ An early version of this paper was designated as a [2022 Allianz Climate Risk Aw
 ## How Do Information and Social Capital Affect Smallholder Farmer Livelihood Risk Perceptions?
 with Dirgha Ghimire, Michael Oppenheimer, Rajendra Ghimire, Indra Chaudhaury, and Dil CK
 <p align="center">
-<img src="/images/InfoMap.png" alt="Info" width="300" height="300" title="Info Map">
+<img src="/images/InfoMap.png" alt="Info" width="500" height="500" title="Info Map">
 </p>
 <details>
 <summary>Summary</summary>
@@ -31,7 +31,7 @@ I have presented this paper at the [2022 Wittgenstein Centre](/files/12.01.2022_
 ## Robust Climate Adaptation Policies for Subsistence Agriculture
 with Frank Errickson, Michael Oppenheimer, and Anil Babu Pokhrel
 <p align="center">
-<img src="/images/NepalPolycentricity.png" alt="Polycentricity" width="300" height="300" title="Nepal Polycentricity">
+<img src="/images/NepalPolycentricity.png" alt="Polycentricity" width="500" height="500" title="Nepal Polycentricity">
 </p>
 <details>
 <summary>Summary</summary>
