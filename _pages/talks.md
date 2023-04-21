@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 ## 2023
-**How Does Climate Shape Smallholder Farmer Livelihood Risk Perceptions?**
+[**How Does Climate Shape Smallholder Farmer Livelihood Risk Perceptions?**](/files/04.13.2023_PAA_Poster.pdf)
 April 13, 2023 (New Orleans, LA)
 Population Association of America (poster)
 
