@@ -1,0 +1,14 @@
+-----
+permalink: /research/
+title: "Current Research"
+----
+
+## Pro-Social Preferences and Subsistence Farmer Climate Risk Management
+with Matthias Wildmeersch, Fernando P. Santos, Simon A. Levin, Michael Opennheimer, and Elke U Weber.
+![](/images/SocialPreferemcesFogire.png = 100x100)
+<details>
+<summary>Summary</summary>
+Several governments have tested formal index-based insurance to build climate resilience among smallholder farmers. Yet, adoption of such programs has generated concerns that insurance may crowd out long-established informal risk transfer arrangements. Understanding this phenomenon requires new analytic approaches that capture dynamics of human social behaviour when facing risky events. Here, we develop a modelling framework, based on evolutionary game theory and empirical data from Nepal and Ethiopia, to demonstrate that insurance may introduce a new social dilemma in farmer risk management strategies. We find that while socially optimal risk management is achieved when all farmers pursue a combination of formal and informal risk transfer, a community of self-interested agents is unable to maintain this coexistence at moderate to high covariate risks. We find that a combination of pro-social preferences - namely, moderate altruism and solidarity - helps farmers overcome these concerns and achieve the social optimum. Behavioural interventions that cue such preferences can render financial incentives more efficient in promoting optimal climate risk management, with potential savings worth approximately 5-15 percent of community agricultural income under a range of risk levels. Extreme dry events already disrupt populations’ ability to migrate. In a warming climate, compound drought events could amplify vulnerability and drive forced migration. Here, we contribute the first multi-method research design on societal impacts from compound drought events. We show how mobility patterns are shaped by the intersection of drought and social vulnerability factors in three drought-prone countries – Madagascar, Nepal, and Mexico. We find that internal migration in agricultural communities in Mexico increased by 14 to 24 basis points from 1991 to 2018 and will prospectively increase by 2 to 15 basis points in Nepal in case of a compound drought event in 2025. We show that consecutive drought events exacerbate structural vulnerabilities, limiting migrants’ adaptation options, including long-range migration. We conclude that the additional social pre-conditions, e.g., social isolation and lack of accurate information, ultimately limit migration as an adaptation option for households vulnerable to compound drought events.
+</details>
+
+An early version of this paper was designated as a [2022 Allianz Climate Risk Award Finalist](https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/sustainability/Allianz-Climate-Risk-Award_Compendium-2022.pdf)!
