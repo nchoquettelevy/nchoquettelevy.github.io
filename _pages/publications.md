@@ -11,8 +11,9 @@ author_profile: true
 
 ## [Compound Impacts from Droughts and Structural Vulnerability on Human Mobility](https://www.sciencedirect.com/science/article/pii/S2589004222017631) 
 Thalheimer, L.; **Choquette-Levy, N.**; and F. Garip. Compound impacts from drought and structural vulnerability on human mobility, *iScience*, 25(12): 105491.\\
-**Key Takeaways**\\
-In this paper, we analyze the impacts of compound risks (i.e. multiple climate and social factors that threaten livelihoods) on migration responses to drought in Madagascar, Mexico, and Nepal. We integrate multiple methods - including agent-based modelling, vulnerability pathway modelling, and econometric analysis - to develop a holistic understanding of how these multiple factors intersect. A key policy takeaway is that investing in societal safety nets and effective climate information services can smooth out migration shocks in response to droughts.\\
+\
+*In this paper, we analyze the impacts of compound risks (i.e. multiple climate and social factors that threaten livelihoods) on migration responses to drought in Madagascar, Mexico, and Nepal.*
+
 <details>
 <summary>Abstract</summary>
 Extreme dry events already disrupt populations’ ability to migrate. In a warming climate, compound drought events could amplify vulnerability and drive forced migration. Here, we contribute the first multi-method research design on societal impacts from compound drought events. We show how mobility patterns are shaped by the intersection of drought and social vulnerability factors in three drought-prone countries – Madagascar, Nepal, and Mexico. We find that internal migration in agricultural communities in Mexico increased by 14 to 24 basis points from 1991 to 2018 and will prospectively increase by 2 to 15 basis points in Nepal in case of a compound drought event in 2025. We show that consecutive drought events exacerbate structural vulnerabilities, limiting migrants’ adaptation options, including long-range migration. We conclude that the additional social pre-conditions, e.g., social isolation and lack of accurate information, ultimately limit migration as an adaptation option for households vulnerable to compound drought events.
@@ -20,7 +21,7 @@ Extreme dry events already disrupt populations’ ability to migrate. In a warmi
 
 
 ## [Risk Transfer Policies and Climate-Induced Immobility among Smallholder Farmers](https://www.nature.com/articles/s41558-021-01205-4) 
-**Choquette-Levy, N.**; Wildemeersch, M.; Oppenheimer, M.; and S. A. Levin (2021). Risk transfer policies and climate-induced immobility among smallholder farmers, *Nature Climate Change*, 11(12): 1046-1054.
+**Choquette-Levy, N.**; Wildemeersch, M.; Oppenheimer, M.; and S. A. Levin (2021). Risk transfer policies and climate-induced immobility among smallholder farmers, *Nature Climate Change*, 11(12): 1046-1054.\
 
 <details>
 <summary>Abstract</summary>
