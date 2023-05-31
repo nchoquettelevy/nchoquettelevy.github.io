@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Princeton University Courses
 
-**Jewish Ethics in the Age of Climate Change**
+**Jewish Ethics in the Age of Climate Change**\
 Developer and Co-Lead Instructor | Spring 2022 | Undergraduate and Graduate
 
 
