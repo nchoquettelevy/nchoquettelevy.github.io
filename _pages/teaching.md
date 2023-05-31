@@ -4,21 +4,27 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-## Princeton University Courses
+# Princeton University Courses
 
- 1. Developer and Co-Lead Instructor, *Jewish Ethics in the Age of Climate Change*, Spring 2022, undergraduate and graduate level.\\
+ ## Jewish Ethics in the Age of Climate Change
+ Developer and Co-Lead Instructor | Spring 2022 | Undergraduate and Graduate\
  \\
+
 *I co-created this course with Rabbi Ira Dounn from the Center for Jewish Life to examine the intersections between climate science and Jewish ethics. Combining scientific and religious texts, we center each session on a specific ethical dilemma in a climate-shaped world, including climate damages, losses, and restitution; just transitions and local vs. global responsibilities; and geoengineering & "playing God". We taught this course to 13 undergraduate and graduate students in Spring 2022, and it has been approved to be taught at Boston University in Fall 2023.*\
 
- 2. Teaching Assistant, *ENV 367: Modelling the Earth System*, Fall 2020, undergraduate level
+## ENV 367: Modelling the Earth System
+Teaching Assistant | Fall 2020 (virtual) | Undergraduate\
 
- 3. Teaching Assistant, *ENE 372: Rapid Switch - The Energy Transition*, Spring 2020, undergraduate level
+## ENE 372: Rapid Switch - The Energy Transition
+Teaching Assistant | Spring 2020 (hybrid) | Undergraduate\
 
-## University of Calgary Courses
+# University of Calgary Courses
 
- 4. Teaching Assistant, *Life Cycle Assessment for Professionals*, Summer 2011, industry professionals
+## Life Cycle Assessment for Professionals
+Teaching Assistant | Summer 2011 (in-person) | Sustainability Professionals\
 
-5. Teaching Assistant, *ENEE 503: Life Cycle Assessment*, Spring 2011, undergraduates 
+## ENEE 503: Life Cycle Assessment
+Teaching Assistant | Spring 2011 (in-person) | Undergraduate\
 
 
 
