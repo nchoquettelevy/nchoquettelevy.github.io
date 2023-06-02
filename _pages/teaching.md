@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-I view teaching as a core part of my responsibilities to equip students with an interdisciplinary skillset to build a more just and sustainable world. I especially enjoy teaching courses that help students integrate multiple frameworks and tools to address a real-world problem. At Princeton University and the University of Calgary, I have taught a variety of courses in different departments, including engineering, environmental studies. I also have co-developed a novel course, Jewish Ethics in the Age of Climate Change, which integrates scientific and religious texts to examine ethical dilemmas posed by a climate-shaped world.  
+I view teaching as a core part of my responsibilities to equip students with an interdisciplinary skillset to build a more just and sustainable world. I especially enjoy teaching courses that help students integrate multiple frameworks and tools to address a real-world problem. At Princeton University and the University of Calgary, I have served as a teaching assistant in a variety of departments, including engineering and environmental studies. I have also co-developed a novel course, Jewish Ethics in the Age of Climate Change, which integrates scientific and religious texts to examine ethical dilemmas posed by a climate-shaped world.  
 
 ## Princeton University Courses
 

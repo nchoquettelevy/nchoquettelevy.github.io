@@ -12,7 +12,7 @@ author_profile: true
 ## [Compound Impacts from Droughts and Structural Vulnerability on Human Mobility](https://www.sciencedirect.com/science/article/pii/S2589004222017631) 
 Thalheimer, L.; **Choquette-Levy, N.**; and F. Garip. Compound impacts from drought and structural vulnerability on human mobility, *iScience*, 25(12): 105491.\\
 \
-*In this paper, we analyze the impacts of compound risks (i.e. multiple climate and social factors that threaten livelihoods) on migration responses to drought in Madagascar, Mexico, and Nepal.*
+*We analyze the impacts of compound risks (i.e. multiple climate and social factors that threaten livelihoods) on migration responses to drought in Madagascar, Mexico, and Nepal.*
 
 <details>
 <summary>Abstract</summary>
@@ -22,6 +22,8 @@ Extreme dry events already disrupt populations’ ability to migrate. In a warmi
 
 ## [Risk Transfer Policies and Climate-Induced Immobility among Smallholder Farmers](https://www.nature.com/articles/s41558-021-01205-4) 
 **Choquette-Levy, N.**; Wildemeersch, M.; Oppenheimer, M.; and S. A. Levin (2021). Risk transfer policies and climate-induced immobility among smallholder farmers, *Nature Climate Change*, 11(12): 1046-1054.\
+\
+*We develop a novel agent-based model to assess the efficacy of various risk transfer policies in promoting smallholder farmer resilience to rising climate risks, finding that a combination of cash and risk transfer policies is robust in expanding farmers' adaptive capacity.*
 
 <details>
 <summary>Abstract</summary>
@@ -29,8 +31,9 @@ Climate change is anticipated to impact smallholder farmer livelihoods substanti
 </details>
 
 ## [COPTEM: A Model to Investigate the Factors Driving Crude Oil Pipleine Transportation Emissions](https://pubs.acs.org/doi/abs/10.1021/acs.est.7b03398)
-**Choquette-Levy, N.**; Zhong, M.; MacLean, H.L.; and J. Bergerson (2018). COPTEM: A model to investigate the factors driving crude oil pipleine transportation emissions, *Environmental Science and Technology*, 52(1): 337-345.
-
+**Choquette-Levy, N.**; Zhong, M.; MacLean, H.L.; and J. Bergerson (2018). COPTEM: A model to investigate the factors driving crude oil pipleine transportation emissions, *Environmental Science and Technology*, 52(1): 337-345.\
+\
+*We develop a fluid mechanics-based model to estimate the greenhouse gas emissions associated with pipeline transportation of crude oil across North America, finding considerably greater variability in emissions intensity compared to previous studies.*
 
 <details>
 <summary>Abstract</summary>
@@ -39,7 +42,9 @@ Previous transportation fuel life cycle assessment studies have not fully accoun
 
 
 ## [Should Alberta Upgrade Oil Sands Bitumen? An Integrated Life Cycle Framework to Evaluate Energy Systems Investment Tradeoffs](https://www.sciencedirect.com/science/article/abs/pii/S0301421513003042)
-**Choquette-Levy, N.**; MacLean, H.L.; and J.A. Bergerson (2013). Should Alberta upgrade oil sands bitumen? An integrated life cycle framework to evaluate energy systems investment tradeoffs, *Energy Policy*, 61: 78-87.
+**Choquette-Levy, N.**; MacLean, H.L.; and J.A. Bergerson (2013). Should Alberta upgrade oil sands bitumen? An integrated life cycle framework to evaluate energy systems investment tradeoffs, *Energy Policy*, 61: 78-87.\
+\
+*We integrate life cycle and cost-benefit analysis to assess the economic and environmental tradeoffs of upgrading oil sands crude oil to higher-quality synthetic crude oil under different carbon-price scenarios. We find that stakeholders with different perceptions of risk and emissions responsibilites will differ on whether the Canadian province of  Alberta should incentivize this technology, which became a salient public policy response to the perception that the province did not extract sufficient value from its natural resources.*
 
 <details>
 <summary>Abstract</summary>
