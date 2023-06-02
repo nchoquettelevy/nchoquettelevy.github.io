@@ -9,8 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=FNY40x4AAAAJ&hl=en&oi=ao}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-## [Compound Impacts from Droughts and Structural Vulnerability on Human Mobility](https://www.sciencedirect.com/science/article/pii/S2589004222017631) 
-Thalheimer, L.; **Choquette-Levy, N.**; and F. Garip. Compound impacts from drought and structural vulnerability on human mobility, *iScience*, 25(12): 105491.\\
+Thalheimer, L.; **Choquette-Levy, N.**; and F. Garip. [Compound impacts from drought and structural vulnerability on human mobility](https://www.sciencedirect.com/science/article/pii/S2589004222017631), *iScience*, 25(12): 105491.\\
 \
 *We analyze the impacts of compound risks (i.e. multiple climate and social factors that threaten livelihoods) on migration responses to drought in Madagascar, Mexico, and Nepal.*
 
@@ -21,7 +20,7 @@ Extreme dry events already disrupt populations’ ability to migrate. In a warmi
 
 
 ## [Risk Transfer Policies and Climate-Induced Immobility among Smallholder Farmers](https://www.nature.com/articles/s41558-021-01205-4) 
-**Choquette-Levy, N.**; Wildemeersch, M.; Oppenheimer, M.; and S. A. Levin (2021). Risk transfer policies and climate-induced immobility among smallholder farmers, *Nature Climate Change*, 11(12): 1046-1054.\
+**Choquette-Levy, N.**; Wildemeersch, M.; Oppenheimer, M.; and S. A. Levin (2021). Risk transfer policies and climate-induced immobility among smallholder farmers, *Nature Climate Change*, 11(12): 1046-1054.
 \
 *We develop a novel agent-based model to assess the efficacy of various risk transfer policies in promoting smallholder farmer resilience to rising climate risks, finding that a combination of cash and risk transfer policies is robust in expanding farmers' adaptive capacity.*
 
