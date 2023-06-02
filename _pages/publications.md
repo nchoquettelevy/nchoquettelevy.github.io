@@ -11,7 +11,7 @@ author_profile: true
 
 Thalheimer, L.; **Choquette-Levy, N.**; and F. Garip. [Compound impacts from drought and structural vulnerability on human mobility](https://www.sciencedirect.com/science/article/pii/S2589004222017631), *iScience*, 25(12): 105491.\\
 \
-*We analyze the impacts of compound risks (i.e. multiple climate and social factors that threaten livelihoods) on migration responses to drought in Madagascar, Mexico, and Nepal.*
+*We analyze the impacts of compound risks (i.e. multiple climate and social factors that threaten livelihoods) on migration responses to drought in Madagascar, Mexico, and Nepal. We find that the net climate-migration relationship depends on social factors e.g. access to irrigation, accurate information, and social connections.*
 
 <details>
 <summary>Abstract</summary>
@@ -19,18 +19,17 @@ Extreme dry events already disrupt populations’ ability to migrate. In a warmi
 </details>
 
 
-## [Risk Transfer Policies and Climate-Induced Immobility among Smallholder Farmers](https://www.nature.com/articles/s41558-021-01205-4) 
-**Choquette-Levy, N.**; Wildemeersch, M.; Oppenheimer, M.; and S. A. Levin (2021). Risk transfer policies and climate-induced immobility among smallholder farmers, *Nature Climate Change*, 11(12): 1046-1054.
+**Choquette-Levy, N.**; Wildemeersch, M.; Oppenheimer, M.; and S. A. Levin (2021). [Risk transfer policies and climate-induced immobility among smallholder farmers](https://www.nature.com/articles/s41558-021-01205-4), *Nature Climate Change*, 11(12): 1046-1054.\\
 \
-*We develop a novel agent-based model to assess the efficacy of various risk transfer policies in promoting smallholder farmer resilience to rising climate risks, finding that a combination of cash and risk transfer policies is robust in expanding farmers' adaptive capacity.*
+*We develop a novel agent-based model to assess the efficacy of various risk transfer policies in promoting smallholder farmer resilience to rising climate risks. We find that a combination of cash and risk transfer policies is robust in improving farmer income and reducing inequality, in part by alleviating climate-induced poverty traps.*
 
 <details>
 <summary>Abstract</summary>
 Climate change is anticipated to impact smallholder farmer livelihoods substantially. However, empirical evidence is inconclusive regarding how increased climate stress affects smallholder farmers’ deployment of various livelihood strategies, including rural–urban migration. Here we use an agent-based model to show that in a South Asian agricultural community experiencing a 1.5 oC temperature increase by 2050, climate impacts are likely to decrease household income in 2050 by an average of 28%, with fewer households investing in both economic migration and cash crops, relative to a stationary climate. Pairing a small cash transfer with risk transfer mechanisms significantly increases the adoption of migration and cash crops, improves community incomes and reduces community inequality. While specific results depend on contextual factors such as risk preferences and climate risk exposure, these interventions are robust in improving adaptation outcomes and alleviating immobility, by addressing the intersection of risk aversion, financial constraints and climate impacts.
 </details>
 
-## [COPTEM: A Model to Investigate the Factors Driving Crude Oil Pipleine Transportation Emissions](https://pubs.acs.org/doi/abs/10.1021/acs.est.7b03398)
-**Choquette-Levy, N.**; Zhong, M.; MacLean, H.L.; and J. Bergerson (2018). COPTEM: A model to investigate the factors driving crude oil pipleine transportation emissions, *Environmental Science and Technology*, 52(1): 337-345.\
+
+**Choquette-Levy, N.**; Zhong, M.; MacLean, H.L.; and J. Bergerson (2018). [COPTEM: A model to investigate the factors driving crude oil pipleine transportation emissions](https://pubs.acs.org/doi/abs/10.1021/acs.est.7b03398), *Environmental Science and Technology*, 52(1): 337-345.\
 \
 *We develop a fluid mechanics-based model to estimate the greenhouse gas emissions associated with pipeline transportation of crude oil across North America, finding considerably greater variability in emissions intensity compared to previous studies.*
 
@@ -40,8 +39,7 @@ Previous transportation fuel life cycle assessment studies have not fully accoun
 </details>
 
 
-## [Should Alberta Upgrade Oil Sands Bitumen? An Integrated Life Cycle Framework to Evaluate Energy Systems Investment Tradeoffs](https://www.sciencedirect.com/science/article/abs/pii/S0301421513003042)
-**Choquette-Levy, N.**; MacLean, H.L.; and J.A. Bergerson (2013). Should Alberta upgrade oil sands bitumen? An integrated life cycle framework to evaluate energy systems investment tradeoffs, *Energy Policy*, 61: 78-87.\
+**Choquette-Levy, N.**; MacLean, H.L.; and J.A. Bergerson (2013). [Should Alberta upgrade oil sands bitumen? An integrated life cycle framework to evaluate energy systems investment tradeoffs](https://www.sciencedirect.com/science/article/abs/pii/S030142151300304), *Energy Policy*, 61: 78-87.\
 \
 *We integrate life cycle and cost-benefit analysis to assess the economic and environmental tradeoffs of upgrading oil sands crude oil to higher-quality synthetic crude oil under different carbon-price scenarios. We find that stakeholders with different perceptions of risk and emissions responsibilites will differ on whether the Canadian province of  Alberta should incentivize this technology, which became a salient public policy response to the perception that the province did not extract sufficient value from its natural resources.*
 
