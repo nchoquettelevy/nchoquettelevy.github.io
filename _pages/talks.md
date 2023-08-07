@@ -12,6 +12,15 @@ author_profile: true
 {% endif %}
 
 ## 2023
+**Accounting for Climate and Political Uncertainties in Migration Agent-Based Models**\\
+July 11, 2023 | Environmental and Climate Mobilities Network Conference | Vienna, Austria
+
+**Integrating Empirical and Exploratory Modelling Methods for Climate Mobility Research**\\
+July 4, 2023 | International Institute for Applied Systems Analysis, Migration and Sustainable Development Team | Laxenburg, Austria
+
+**Participatory Agent-Based Models: A Senegal Climate Adaptation Case Study**\\
+June 26, 2023 | Agricultural Model Intercomparison Project 9 | New York, NY
+
 **Navigating a Warming World: Policy & Governance to Manage Smallholder Farmer Climate Risk**\\
 May 11, 2023 | World Bank Climate Change Group | Washington, D.C.
 
