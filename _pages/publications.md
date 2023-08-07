@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=FNY40x4AAAAJ&hl=en&oi=ao}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-(Under Review) **Choquette-Levy, N.**; Wildemeersch, M.; Santos, F.; Levin, S.; Oppenheimer, M.; and E. Weber. [Pro-Social Preferences Improve Climate Risk Management in Subsistence Farming Communities](https://www.researchsquare.com/article/rs-2845875/v1), *Nature Sustainability*.\\
+(Revise and Resubmit) **Choquette-Levy, N.**; Wildemeersch, M.; Santos, F.; Levin, S.; Oppenheimer, M.; and E. Weber. [Pro-Social Preferences Improve Climate Risk Management in Subsistence Farming Communities](https://www.researchsquare.com/article/rs-2845875/v1), *Nature Sustainability*.\\
 \
 *We integrate a novel evolutionary game theory model with empirical data from Nepal and Ethiopia to demonstrate that new index-based climate insurance mechanisms and rising climate risks may introduce a new social dilemma, in which farmers opt out of informal revenue-sharing cooperatives.*
 
