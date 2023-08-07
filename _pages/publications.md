@@ -9,6 +9,15 @@ author_profile: true
   You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=FNY40x4AAAAJ&hl=en&oi=ao}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+(Under Review) **Choquette-Levy, N.**; Wildemeersch, M.; Santos, F.; Levin, S.; Oppenheimer, M.; and E. Weber. [Pro-Social Preferences Improve Climate Risk Management in Subsistence Farming Communities](https://www.researchsquare.com/article/rs-2845875/v1), *Nature Sustainability*.\\
+\
+*We integrate a novel evolutionary game theory model with empirical data from Nepal and Ethiopia to demonstrate that new index-based climate insurance mechanisms and rising climate risks may introduce a new social dilemma, in which farmers opt out of informal revenue-sharing cooperatives.**
+
+<details>
+<summary>Abstract</summary>
+Several governments have tested formal index-based insurance to build climate resilience among smallholder farmers. Yet, adoption of such programs has generated concerns that insurance may crowd out long-established informal risk transfer arrangements. Understanding this phenomenon requires new analytic approaches that capture dynamics of human social behaviour when facing risky events. Here, we develop a modelling framework, based on evolutionary game theory and empirical data from Nepal and Ethiopia, to demonstrate that insurance may introduce a new social dilemma in farmer risk management strategies. We find that while socially optimal risk management is achieved when all farmers pursue a combination of formal and informal risk transfer, a community of self-interested agents is unable to maintain this coexistence at moderate to high covariate risks. We find that a combination of pro-social preferences - namely, moderate altruism and solidarity - helps farmers overcome these concerns and achieve the social optimum. Behavioural interventions that cue such preferences can render financial incentives more efficient in promoting optimal climate risk management, with potential savings worth approximately 5-15 percent of community agricultural income under a range of risk levels.
+</details>
+
 Thalheimer, L.; **Choquette-Levy, N.**; and F. Garip. [Compound impacts from drought and structural vulnerability on human mobility](https://www.sciencedirect.com/science/article/pii/S2589004222017631), *iScience*, 25(12): 105491.\\
 \
 *We analyze the impacts of compound risks (i.e. multiple climate and social factors that threaten livelihoods) on migration responses to drought in Madagascar, Mexico, and Nepal. We find that the net climate-migration relationship depends on social factors e.g. access to irrigation, accurate information, and social connections.*
