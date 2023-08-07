@@ -12,17 +12,17 @@ author_profile: true
 {% endif %}
 
 ## 2023
-**Accounting for Climate and Political Uncertainties in Migration Agent-Based Models**\\
+[**Accounting for Climate and Political Uncertainties in Migration Agent-Based Models**](/files/Choquette-Levy_ECM_07.11.2023.pdf)\\
 July 11, 2023 | Environmental and Climate Mobilities Network Conference | Vienna, Austria
 
-**Integrating Empirical and Exploratory Modelling Methods for Climate Mobility Research**\\
-July 4, 2023 | International Institute for Applied Systems Analysis, Migration and Sustainable Development Team | Laxenburg, Austria
+[**Integrating Empirical and Exploratory Modelling Methods for Climate Mobility Research**](/files/07.04.2023_POPJUS_Talk_final.pdf)\\
+July 4, 2023 | (invited talk) International Institute for Applied Systems Analysis, Migration and Sustainable Development Team | Laxenburg, Austria
 
-**Participatory Agent-Based Models: A Senegal Climate Adaptation Case Study**\\
-June 26, 2023 | Agricultural Model Intercomparison Project 9 | New York, NY
+[**Participatory Agent-Based Models: A Senegal Climate Adaptation Case Study**](/files/Choquette-Levy_AgMIP.pdf)\\
+June 26, 2023 | (invited talk) Agricultural Model Intercomparison Project 9 | New York, NY
 
 **Navigating a Warming World: Policy & Governance to Manage Smallholder Farmer Climate Risk**\\
-May 11, 2023 | World Bank Climate Change Group | Washington, D.C.
+May 11, 2023 | (invited talk) World Bank Climate Change Group | Washington, D.C.
 
 [**How Does Climate Shape Smallholder Farmer Livelihood Risk Perceptions?**](/files/04.13.2023_PAA_Poster.pdf)\\
 April 13, 2023 | Population Association of America (poster) | New Orleans, LA
@@ -40,7 +40,7 @@ Nov. 9, 2022 | Society for Decision-Making under Deep Uncertainty | Mexico City,
 Sept. 16, 2022 | Climate Mobility Network Workshop | New York City, NY
 
 **Navigating a Warmer Planet: Simulating Migration in Smallholder Farmer Adaptation Portfolios**\\
-Aug. 23, 2022 | xPloreNet Workshop on Migration Modelling and Climate Change Research | Vienna, Austria
+Aug. 23, 2022 |(invited talk) xPloreNet Workshop on Migration Modelling and Climate Change Research | Vienna, Austria
 
 **Investigating Sources of Social Vulnerability to COVID-19 in New York City**\\
 Feb. 1, 2022 |Population Association of America Applied Demography Conference | virtual talk
