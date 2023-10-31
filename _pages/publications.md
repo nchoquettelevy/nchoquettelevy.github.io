@@ -48,7 +48,7 @@ Previous transportation fuel life cycle assessment studies have not fully accoun
 </details>
 
 
-**Choquette-Levy, N.**; MacLean, H.L.; and J.A. Bergerson (2013). [Should Alberta upgrade oil sands bitumen? An integrated life cycle framework to evaluate energy systems investment tradeoffs](https://www.sciencedirect.com/science/article/abs/pii/S030142151300304), *Energy Policy*, 61: 78-87.\
+**Choquette-Levy, N.**; MacLean, H.L.; and J.A. Bergerson (2013). [Should Alberta upgrade oil sands bitumen? An integrated life cycle framework to evaluate energy systems investment tradeoffs](https://www.sciencedirect.com/science/article/pii/S0301421513003042?casa_token=z7vWKcPyUo8AAAAA:-7GHgFyAj16-AU2Kn7eVf3aYAxyH5_FPwb7dp9M6N8u7Oca16c4-W1MbtoCwTLTaIY3c6q4qB5K_), *Energy Policy*, 61: 78-87.\
 \
 *We integrate life cycle and cost-benefit analysis to assess the economic and environmental tradeoffs of upgrading oil sands crude oil to higher-quality synthetic crude oil under different carbon-price scenarios. We find that stakeholders with different perceptions of risk and emissions responsibilites will differ on whether the Canadian province of  Alberta should incentivize this technology, which became a salient public policy response to the perception that the province did not extract sufficient value from its natural resources.*
 
