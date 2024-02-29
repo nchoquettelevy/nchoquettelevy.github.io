@@ -9,8 +9,8 @@ author_profile: true
   You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=FNY40x4AAAAJ&hl=en&oi=ao}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-**Choquette-Levy, N.**; Ghimire, D.; Oppenheimer, M.; Ghimire, R.; and D. CK. [``Hunkering Down" under Climate-Driven Risks in Subsistence Farming Communities](/files/HunkeringDownunderClimateRisk_maintext_2.28.2024), submitted.\\
-
+**Choquette-Levy, N.**; Ghimire, D.; Oppenheimer, M.; Ghimire, R.; and D. CK. ["Hunkering Down" under Climate-Driven Risks in Subsistence Farming Communities](/files/HunkeringDownunderClimateRisk_maintext_2.28.2024.pdf), in prep.\\
+\
 *We conduct a survey of 500 farming households in Nepal's Chitwan Valley and employ cross-sectional and time series techniques to investigate how farmers' information sources, social capital, and previous exposure to climate hazards shape climate risk perceptions and liveilhood decisions.*
 
 <details>
