@@ -9,6 +9,15 @@ author_profile: true
   You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=FNY40x4AAAAJ&hl=en&oi=ao}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+**Choquette-Levy, N.**; Ghimire, D.; Oppenheimer, M.; Ghimire, R.; and D. CK. [``Hunkering Down" under Climate-Driven Risks in Subsistence Farming Communities](/files/HunkeringDownunderClimateRisk_maintext_2.28.2024), submitted.\\
+
+*We conduct a survey of 500 farming households in Nepal's Chitwan Valley and employ cross-sectional and time series techniques to investigate how farmers' information sources, social capital, and previous exposure to climate hazards shape climate risk perceptions and liveilhood decisions.*
+
+<details>
+<summary>Abstract</summary>
+Increasing climate risks introduce new sources of uncertainty to smallholder farmers' livelihood decisions. In response, several governments have invested in climate information services for farmers, but current evidence is mixed on how farmers actually integrate such information in their livelihood decision-making. In this study, we conduct a survey of 500 farming households in Nepal’s Chitwan Valley and employ a suite of cross-sectional and time series econometric techniques to analyze how farmers’ information sources, social capital, and previous exposure to climate hazards shape climate risk perceptions and livelihood decisions. We find that climate-driven risks are highly salient to household perceptions of farming risks; however, they also drive higher perceived risks of common livelihood diversification strategies, including rural-urban migration and off-farm employment. Further, access to greater informational and social capital may actually decrease the perceived risk of specific climate-driven hazards, including droughts and groundwater scarcity. Finally, we find that while farming households generally maintain diversified income portfolios, exposure to droughts and/or floods leads to persistent increases in the reliance on farming income, which we term a ``hunkering down" response. Our results indicate that efforts to build farmers' resilience to climate risks should especially account for perceived risks of livelihood alternatives, financial constraints, and loss-averse behavior in response to income shocks.
+</details>
+
 **Choquette-Levy, N.**; Wildemeersch, M.; Santos, F.; Levin, S.; Oppenheimer, M.; and E. Weber. [Pro-Social Preferences Improve Climate Risk Management in Subsistence Farming Communities](https://www.nature.com/articles/s41893-024-01272-3), *Nature Sustainability*, 1-12.\\
 \
 *We integrate a novel evolutionary game theory model with empirical data from Nepal and Ethiopia to demonstrate that new index-based climate insurance mechanisms and rising climate risks may introduce a new social dilemma, in which farmers opt out of informal revenue-sharing cooperatives.*
