@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website! I am a Postdoctoral Associate at Cornell University in the [Department of Global Development](https://cals.cornell.edu/global-development), working with Professor [Andrew Reid Bell and the ELM Lab](https://www.elm-lab.org/about) to develop better policy interventions to secure rural liveihoods against rising climate and environmental risks. In January 2025, I will join the Penn State [Department of Geosciences](https://www.geosc.psu.edu/) as an Assistant Professor of Climate Risk & Decision-Making.
 
-**I am currently [seeking a PhD student](_pages/opportunities.md) to join the Climate Adaptation Models for Policy (CAMP) Lab at Penn State starting in Fall 2025!**
+**I am currently [seeking a PhD student](/opportunities.md) to join the Climate Adaptation Models for Policy (CAMP) Lab at Penn State starting in Fall 2025!**
 
 Prior to my postdoc at Cornell, I was a Postdoctoral Associate in the [Earth & Environment Department](https://www.bu.edu/earth/) at Boston University. I obtained my PhD in Science, Technology, and Environmental Policy from the [School of Public and International Affairs](https://cpree.princeton.edu/) at Princeton University in January 2023, advised by Professors [Michael Oppenheimer](https://cpree.princeton.edu/people/michael-oppenheimer) and [Simon Levin](https://slevin.princeton.edu/). My research approach is strongly interdisciplinary and collaborative, integrating methods such as agent-based modelling, game theory, and household surveys. I have conducted field research in Nepal's Chitwan Valley, and am working on participatory modelling projects with stakeholders in Senegal and Brazil's Rondônia State.
 
