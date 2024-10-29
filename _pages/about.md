@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am a Postdoctoral Associate at Cornell University in the [Department of Global Development](https://cals.cornell.edu/global-development), working with Professor [Andrew Reid Bell and the ELM Lab](https://www.elm-lab.org/about) to develop better policy interventions to secure rural liveihoods against rising climate and environmental risks. In January 2025, I will join the Penn State [Department of Geosciences](https://www.geosc.psu.edu/) as an Assistant Professor of Climate Risk & Decision-Making!
+Welcome to my website! I am a Postdoctoral Associate at Cornell University in the [Department of Global Development](https://cals.cornell.edu/global-development), working with Professor [Andrew Reid Bell and the ELM Lab](https://www.elm-lab.org/about) to develop better policy interventions to secure rural liveihoods against rising climate and environmental risks. In January 2025, I will join the Penn State [Department of Geosciences](https://www.geosc.psu.edu/) as an Assistant Professor of Climate Risk & Decision-Making.
 
 **I am currently seeking a PhD student to join the Climate Adaptation Models for Policy (CAMP) Lab at Penn State starting in Fall 2025!**
 
