@@ -6,6 +6,9 @@ main:
   - title: "Current Research"
     url: /research/
 
+  - title: "Opportunities"
+    url: /opportunities/
+    
   - title: "Talks"
     url: /talks/    
 
